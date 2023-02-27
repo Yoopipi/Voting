@@ -1,0 +1,29 @@
+#sidebar-button nav p{
+    font-size: 18px;
+    font-weight: 300;
+}
+.logo{
+    margin: 5px 5px 5px -15px;
+  }
+.sidebar{
+    height: 470px;
+    width: 230px;
+    text-align: center;
+    border-radius: 20px;
+    background-color: white;
+    margin: -654px 10px 10px 10px ;
+    box-shadow:rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    
+  }
+  .topheader{
+    height: 40px;
+    width: 100%;
+    padding-top: 9px;
+    /* background-color: white; */
+    display: block;
+    /* border-radius: 20px; */
+  }
+  .topheader .title{
+    font-size:18px;
+    padding-left: 0px;
+  }
